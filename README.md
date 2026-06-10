@@ -280,6 +280,25 @@ Food-related categories showed the strongest relationship with crude oil price f
 ## Project Overview
 ![Project Overview](Images/What-is-CPI.png)
 
+## Problem Statement
+![Problem Statement](Images/Problem-statement.png)
+![Problem Statement 2](Images/Problem-statement-2.png)
+
+## CPI Basket Contribution Analysis
+![CPI Basket Contribution Analysis](Images/CPI-Basket-Contribution.png)
+
+## Year-on-Year Inflation Trend
+![Year-over-Year Inflation Trend Analysis](Images/Inflation-Trend-Analysis.png)
+
+## Food Inflation Deep Dive
+![Food Inflation Deep Dive](Images/Food-Inflation-Analysis.png)
+
+## COVID Impact Analysis
+![COVID Impact Analysis](Images/Covid-Impact-analysis.png)
+
+## Crude Oil Correlation Analysis
+![Crude Oil Correlation Analysis](Images/Cude-Oil-Correlation-Analysis.png)
+
 ## Author
 
 **Atharva Deshpande**
