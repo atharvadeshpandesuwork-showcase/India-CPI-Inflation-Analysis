@@ -278,7 +278,7 @@ Food-related categories showed the strongest relationship with crude oil price f
 ### Screenshots
 
 ## Project Overview
-Example: ![Project Overview] (https://github.com/atharvadeshpandesuwork-showcase/India-CPI-Inflation-Analysis/blob/main/Images/What%20is%20CPI.png)
+![Project Overview](Images/What-is-CPI.png)
 
 ## Author
 
